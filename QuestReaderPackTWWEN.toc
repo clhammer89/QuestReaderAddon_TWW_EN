@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: Quest Reader Pack: The War Within English
+## Author: clhammer weirdautomation@gmail.com, Paratus
+## Version: 1.0
+## Notes: The War Within English quest voice pack for Quest Reader Addon
+
+QuestReaderPackTWWEN.lua
