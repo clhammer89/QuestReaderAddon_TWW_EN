@@ -1,4 +1,4 @@
-QuestReaderSoundLengths = {
+QuestReaderAddon_TWW_EN = {
     ["32470_completion.wav"] = 9.77,
     ["32470_description.wav"] = 32.74,
     ["32470_progress.wav"] = 8.44,

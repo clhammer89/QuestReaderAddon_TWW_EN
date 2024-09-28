@@ -4,4 +4,4 @@
 ## Version: 1.0
 ## Notes: The War Within English quest voice pack for Quest Reader Addon
 
-QuestReaderPackTWWEN.lua
+QuestReaderAddon_TWW_EN.lua
